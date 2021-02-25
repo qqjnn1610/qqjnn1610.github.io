@@ -17,7 +17,7 @@ int main()
 }
 ```
 
-```qqjnn1610
+```
 void setup(){
   size(500,500);
 }
