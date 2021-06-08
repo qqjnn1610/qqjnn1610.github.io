@@ -4,9 +4,9 @@
 我是銘傳大學資傳系的學生!!!
 
 ## 介紹我的興趣
-我喜歡看劇
+我喜歡看劇，尤其是有特殊含義的劇情
 
-![看劇](https://i.ytimg.com/vi/Y_DG519GyEI/maxresdefault.jpg)
+![劇](https://i.ytimg.com/vi/Y_DG519GyEI/maxresdefault.jpg)
 
 
 ```C
